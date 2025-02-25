@@ -56,4 +56,3 @@ function logSummeryEmail() {
     console.log(s1.subject + '\n' + s1.body);
     console.log(s2.subject + '\n' + s2.body);
 }
-

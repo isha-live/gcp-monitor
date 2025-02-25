@@ -184,4 +184,3 @@ function sendReminderEmail() {
     MailApp.sendEmail(RECIPIENT, subject, body);
     MailApp.sendEmail(TEST_RECIPIENT, subject, body);
 }
-
